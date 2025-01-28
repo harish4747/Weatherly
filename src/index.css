@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body {
+  font-family: "PT sans", sans-serif;
+  background: navy;
+  background-image: url("https://pics.craiyon.com/2023-09-22/23d574f1d0c04b758c918d0d8728f93a.webp");
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#root>section {
+  background: #fff;
+}
